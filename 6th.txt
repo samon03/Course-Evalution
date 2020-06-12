@@ -1,0 +1,5 @@
+CSE 313,Computer Architecture,3.00,6th,CSE 225'CSE 226,
+CSI 233,Theory of Computing,3.00,6th,CSI 227'CSI 228'219,
+STAT 205,Probability and Statistics,3.00,6th,---,
+CSI 229,Numerical Methods,3.00,6th,MATH 183,
+CSE 236,Assembly Programming Lab,1.00,6th,CSI 121'CSI 122,

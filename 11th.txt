@@ -1,0 +1,5 @@
+CSE 429,Digital System Design,3.00,11th,CSE 425'CSE 426,
+CSE 430,Digital System Design Lab,1.00,11th,CSE 426,
+CSE___ ,Option I Theory,3.00,11th,---,
+CSE ___,Option I Lab,1.00,11th,---,
+CSE ___,Option II,3.00,11th,---,

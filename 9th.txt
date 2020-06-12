@@ -1,0 +1,5 @@
+CSI 311,System Analysis and Design,3.00,9th,CSI 221,
+CSI 312,System Analysis and Design Lab,1.00,9th,CSI 222,
+CSE 323,Computer Networks,3.00,9th,CSE 315,
+CSE 324,Computer Networks Lab,1.00,9th,---,
+____  ,Humanities / Business,3.00,9th,---,

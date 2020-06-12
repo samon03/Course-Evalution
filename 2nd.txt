@@ -1,0 +1,4 @@
+MATH 151,Differential and Integral Calculas,3.00,2nd,---,
+CSI 219,Discreate Mathematics,3.00,2nd,---,
+ENG 103,English 2,3.00,2nd,ENG101,
+CSI 124,Advanced Programming Lab,1.00,2nd,CSI 121'CSI 122,

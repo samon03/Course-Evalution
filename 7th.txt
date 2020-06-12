@@ -1,0 +1,6 @@
+CSI 309,Operating System Concepts,3.00,7th,CSI 227,
+CSI 310,Operating System Concepts Lab,1.00,7th,CSI 228,
+CSE 315,Data Communication,3.00,7th,MATH 187,
+CSI 411,Compiler,3.00,7th,CSI 233'CSI 121,
+CSI 412,Compiler Lab,1.00,7th,CSI 122,
+____,Humanities / Business,3.00,7th,---,

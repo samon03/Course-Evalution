@@ -1,0 +1,4 @@
+ENG 101,English 1,3.00,1st,---,
+MATH 003,Elementry Calculus,3.00,1st,---,
+CSI 121,Structured Programming Language,3.00,1st,---,
+CSI 121,Structured Programming Language Lab,1.00,1st,---,

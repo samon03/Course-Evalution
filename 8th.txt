@@ -1,0 +1,6 @@
+CSI 221,Database Management Systems,3.00,8th,---,
+CSI 222,Database Management Systems Lab,1.00,8th,---,
+CSI 341,Artificial Intelligence,3.00,8th,CSI 227,
+CSI 342,Artificial Intelligence Lab,1.00,8th,CSI 228,
+CSE 425,Microprocessor, Microcontroller and Interfacing,3.00,8th,CSI 236,
+CSE 426,Microprocessor, Microcontroller and Interfacing lab,1.00,8th,236,

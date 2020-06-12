@@ -1,0 +1,6 @@
+MATH 201,Coordinate Geometry and Vector Analysis,3.00,5th,---,
+CSI 211,Object Oriented Programming,3.00,5th,CSI 121,
+CSI 212,Object Oriented Programming Lab,1.00,5th,CSI 122,
+CSI 123,Electronics,3.00,5th,CSE 113,
+CSI 124,Electronics Lab,1.00,5th,---,
+____  ,Humanities / Business,3.00,5th,---,

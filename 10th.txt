@@ -1,0 +1,6 @@
+CSI 321,Software Engineering,3.00,10th,CSI 311,
+CSI 322,Software Engineering Lab,1.00,10th,CSI 312,
+CSE___ ,Option I Theory,3.00,10th,---,
+CSE ___,Option I Lab,1.00,10th,---,
+CSE ___,Option II,3.00,10th,---,
+CSE 400,Thesis / Project,2.00,10th,---,

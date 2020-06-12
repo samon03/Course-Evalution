@@ -1,0 +1,6 @@
+CSI 217,Data Structure,3.00,3rd,CSI 121,
+CSI 218,Data Structure Lab,1.00,3rd,CSI 122,
+Math 183,Linear Algebra' Ordinary and Partial,3.00,3rd,MATH 151,
+CSE 113,Electrical Circuits,3.00,3rd,---,
+PHY 105,Physics,3.00,3rd,--,
+PHY 106,Physics Lab,1.00,3rd,--,

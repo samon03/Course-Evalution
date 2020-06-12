@@ -1,0 +1,5 @@
+CSI 227,Algorithms,3.00,4th,CSI 217,
+CSI 228,Algorithms Lab,1.00,4th,CSI 218,
+CSE 225,Digital Logic Design,3.00,4th,---,
+CSE 226,Digital Logic Design Lab,1.00,4th,---,
+MATH 187,Fourier and Laplace Trans. & Complex Var.,3.00,4th,MATH 183,
